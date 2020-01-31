@@ -1,0 +1,27 @@
+{
+  "name": "brain-games",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "src": "src/index.js",
+  "scripts": {
+    "test": "console.log"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackfox75/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "brain-games"
+  ],
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackfox75/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/blackfox75/frontend-project-lvl1#readme"
+}
