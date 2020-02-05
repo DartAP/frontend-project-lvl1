@@ -8,7 +8,8 @@
   },
   "src": "src/index.js",
   "scripts": {
-    "test": "console.log"
+    "test": "console.log",
+    "start": "node ./bin/brain-games.js"
   },
   "type": "module",
   "repository": {
